@@ -1,0 +1,10 @@
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Debug\CalculatePrice.exe.config
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Debug\CalculatePrice.exe
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Debug\CalculatePrice.pdb
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.MainForm.resources
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.Properties.Resources.resources
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.csproj.GenerateResource.cache
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.csproj.CoreCompileInputs.cache
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.exe
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.pdb
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Debug\CalculatePrice.csprojAssemblyReference.cache

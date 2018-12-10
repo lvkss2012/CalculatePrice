@@ -1,0 +1,9 @@
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Release\CalculatePrice.exe.config
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Release\CalculatePrice.exe
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\bin\Release\CalculatePrice.pdb
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.MainForm.resources
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.Properties.Resources.resources
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.csproj.GenerateResource.cache
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.csproj.CoreCompileInputs.cache
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.exe
+C:\Users\dsj80\Desktop\CalculatePrice\CalculatePrice\obj\Release\CalculatePrice.pdb
